@@ -15,7 +15,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/netflix-ui-clone.git](https://shubhampopalghat.github.io/NetflixUIClone/
+git clone https://shubhampopalghat.github.io/NetflixUIClone/
 Navigate to the project directory:
 sh
 Copy
